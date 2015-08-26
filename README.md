@@ -1,15 +1,26 @@
 # TimeCardView
+
 A web front-end to the Kronos API.
 
-[![Build Status](https://travis-ci.org/TeamACapstone2015/TimeCardView.png?branch=master)](https://travis-ci.org/TeamACapstone2015/TimeCardView)
-[![Code Climate](https://codeclimate.com/github/TeamACapstone2015/TimeCardView/badges/gpa.svg)](https://codeclimate.com/github/TeamACapstone2015/TimeCardView)
-[![Test Coverage](https://codeclimate.com/github/TeamACapstone2015/TimeCardView/badges/coverage.svg)](https://codeclimate.com/github/TeamACapstone2015/TimeCardView/coverage)
-[![Coverage Status](https://coveralls.io/repos/TeamACapstone2015/TimeCardView/badge.svg?branch=master)](https://coveralls.io/r/TeamACapstone2015/TimeCardView?branch=master) 
+## Technologies Used
 
-[![Version Eye package.json](https://www.versioneye.com/user/projects/555cb971634daa5dc8000985/badge.svg?style=flat)](https://www.versioneye.com/user/projects/555cb971634daa5dc8000985)
-[![Version Eye bower.json](https://www.versioneye.com/user/projects/555cb970634daacd410007e7/badge.svg?style=flat)](https://www.versioneye.com/user/projects/555cb970634daacd410007e7)
+* React
+* Gulp 
+* Webpack
+* Babel
+* Flux (flummox)
+* BrowserSync
+* npm
+* bower
+* lodash
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TeamACapstone2015/timecardview/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+## Screen Shots
+
+<img width="1392" alt="screen shot 2015-08-25 at 5 27 10 pm" src="https://cloud.githubusercontent.com/assets/5105665/9483024/a3f8677a-4b4f-11e5-804e-342d7523560b.png">
+<img width="1392" alt="screen shot 2015-08-25 at 5 27 19 pm" src="https://cloud.githubusercontent.com/assets/5105665/9483026/a3fa6b60-4b4f-11e5-9b44-fc1aecd8d52b.png">
+<img width="1392" alt="screen shot 2015-08-25 at 5 27 23 pm" src="https://cloud.githubusercontent.com/assets/5105665/9483023/a3f63a4a-4b4f-11e5-9cd0-996246348f3c.png">
+<img width="1392" alt="screen shot 2015-08-25 at 5 27 38 pm" src="https://cloud.githubusercontent.com/assets/5105665/9483025/a3f9246c-4b4f-11e5-8951-f8e4d336c97c.png">
+
 
 ## Development
 
