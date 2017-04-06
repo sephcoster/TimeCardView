@@ -10,7 +10,7 @@ export default {
   api: {
     location: {
       protocal: 'http',
-      host: '10.3.49.134',
+      host: 'localhost', //or another Kronos root IP or address
       basepath: '/wfc/XmlService'
     },
   },
